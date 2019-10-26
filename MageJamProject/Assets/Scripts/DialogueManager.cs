@@ -9,49 +9,25 @@ public class DialogueManager : MonoBehaviour
     public Text dialogueText;
     public Animator animator;
     public int rand;
+
     private Queue<string> sentences;
 
     void Start()
     {
+        //speech = Dialogue.sentences
         sentences = new Queue<string>();
     }
 
     public void StartDialogue (Dialogue dialogue)
     {
         //Debug.Log("Starting conversation with " + dialogue.name);
-        rand = Random.Range(0, Dialogue.names.Length);
-        animator.SetBool("IsOpen", true);
-
-        nameText.text = Dialogue.names[rand];
-        rand = Random.Range(0, Dialogue.surname.Length);
-        nameText.text += Dialogue.surname[rand];
-        
-        rand = Random.Range(0, Dialogue.situation.Length);
-        string sitizenRequest = Dialogue.situation[rand];
 
         sentences.Clear();
         foreach (string sentence in dialogue.sentences)
         {
             sentences.Enqueue(sentence);
         }
-       // RequestBuilder(sitizenRequest);
         DisplayNextSentence();
-    }
-
-    public void RequestBuilder(string n)
-    {
-        if (n == "casual")
-        {
-            
-        }
-        else if (n == "special")
-        {
-
-        }
-        else
-        {
-
-        }        
     }
 
     public void DisplayNextSentence()

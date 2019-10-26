@@ -8,6 +8,6 @@ public class DialogApearenence : MonoBehaviour
     
     public void TriggerDialogue()
     {
-        FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
+        FindObjectOfType<CitizenCreation>().StartDialogue();
     }
 }

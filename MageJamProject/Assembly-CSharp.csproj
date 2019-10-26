@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ChoiseSelection.cs" />
+    <Compile Include="Assets\Scripts\Citizen.cs" />
+    <Compile Include="Assets\Scripts\CitizenCreation.cs" />
+    <Compile Include="Assets\Scripts\CitizenManager.cs" />
     <Compile Include="Assets\Scripts\DialogApearenence.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogueManager.cs" />
@@ -92,6 +94,12 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Smth else/GitReposGumes/MageJamWrokname/MageJamProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>D:/Smth else/GitReposGumes/MageJamWrokname/MageJamProject/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>D:/Smth else/GitReposGumes/MageJamWrokname/MageJamProject/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
