@@ -45,10 +45,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <ItemGroup>     <Compile Include="Assets\Scripts\Citizen.cs" />
      <Compile Include="Assets\Scripts\CitizenCreation.cs" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 0b415d0... Laws_basic
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
@@ -631,15 +634,21 @@
   <ItemGroup>     <Compile Include="Assets\Scripts\Citizen.cs" />
      <Compile Include="Assets\Scripts\CitizenCreation.cs" />
      <Compile Include="Assets\Scripts\CitizenManager.cs" />
+<<<<<<< HEAD
+>>>>>>> parent of 0b415d0... Laws_basic
+=======
 >>>>>>> parent of 0b415d0... Laws_basic
      <Compile Include="Assets\Scripts\DialogApearenence.cs" />
      <Compile Include="Assets\Scripts\Dialogue.cs" />
      <Compile Include="Assets\Scripts\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\KingAnimator.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\LawBook.cs" />
      <Compile Include="Assets\Scripts\MadnessAmount.cs" />
      <Compile Include="Assets\Scripts\Start.cs" />
+=======
+>>>>>>> parent of 0b415d0... Laws_basic
 =======
 >>>>>>> parent of 0b415d0... Laws_basic
  <Reference Include="Unity.Timeline.Editor">
@@ -1204,6 +1213,10 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.10f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0b204789672184783859e21643f9d08f2f8d9789
+>>>>>>> parent of 0b415d0... Laws_basic
 =======
 >>>>>>> 0b204789672184783859e21643f9d08f2f8d9789
 >>>>>>> parent of 0b415d0... Laws_basic

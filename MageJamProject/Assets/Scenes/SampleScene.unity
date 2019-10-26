@@ -1337,6 +1337,7 @@ Animator:
   m_KeepAnimatorControllerStateOnDisable: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &836575498
 =======
 --- !u!1 &910217031
@@ -1466,6 +1467,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 910217031}
 >>>>>>> 0b415d0550aaed0eb003eda7d689b8fdf4661f4d
   m_CullTransparentMesh: 0
+=======
+>>>>>>> parent of 0b415d0... Laws_basic
 =======
 >>>>>>> parent of 0b415d0... Laws_basic
 --- !u!1 &940404902
@@ -2661,12 +2664,15 @@ RectTransform:
   - {fileID: 1797567892}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 520329080}
   - {fileID: 836575499}
 =======
   - {fileID: 1353890267}
   - {fileID: 910217032}
 >>>>>>> 0b415d0550aaed0eb003eda7d689b8fdf4661f4d
+=======
+>>>>>>> parent of 0b415d0... Laws_basic
 =======
 >>>>>>> parent of 0b415d0... Laws_basic
   m_Father: {fileID: 0}
@@ -2929,12 +2935,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   croudLoyalty: 0
   army: 0
 =======
   croudLoyalty: 80
   army: 50
 >>>>>>> 0b415d0550aaed0eb003eda7d689b8fdf4661f4d
+=======
+>>>>>>> parent of 0b415d0... Laws_basic
 =======
 >>>>>>> parent of 0b415d0... Laws_basic
   madness: 0
