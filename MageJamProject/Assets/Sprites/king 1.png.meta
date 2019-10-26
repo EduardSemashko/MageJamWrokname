@@ -1,118 +1,118 @@
 fileFormatVersion: 2
-guid: 847b2d5d6984b7546ab3d8e0bf83d708
+guid: 71be4b404ecc35348bf1ff418b4829f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1624108181874779714
-    second: Hands_0
+      213: 4680243464515629012
+    second: king 1_0
   - first:
-      213: 4710320323224341537
-    second: Hands_1
+      213: -4519345004690601529
+    second: king 1_1
   - first:
-      213: -3607849992788312949
-    second: Hands_2
+      213: 8213400512614576216
+    second: king 1_2
   - first:
-      213: 4785893250104691602
-    second: Hands_3
+      213: 1428941404127914383
+    second: king 1_3
   - first:
-      213: 8548358002291925304
-    second: Hands_4
+      213: -5030233323472477060
+    second: king 1_4
   - first:
-      213: 4115896618408713961
-    second: Hands_5
+      213: -2034984854398452949
+    second: king 1_5
   - first:
-      213: -8794073143430624990
-    second: Hands_6
+      213: -5208127639489565372
+    second: king 1_6
   - first:
-      213: -540470037707228130
-    second: Hands_7
+      213: -3940893376956307571
+    second: king 1_7
   - first:
-      213: 337372214685337209
-    second: Hands_8
+      213: 5604006418605833793
+    second: king 1_8
   - first:
-      213: -6027080290790340996
-    second: Hands_9
+      213: 3629648457101865543
+    second: king 1_9
   - first:
-      213: 6313145923079975146
-    second: Hands_10
+      213: 2543506394992104552
+    second: king 1_10
   - first:
-      213: -2244605342048754875
-    second: Hands_11
+      213: -7894896795220379943
+    second: king 1_11
   - first:
-      213: 859294344300821939
-    second: Hands_12
+      213: -8840414887699379687
+    second: king 1_12
   - first:
-      213: -6203160313062490431
-    second: Hands_13
+      213: 7396184079930085331
+    second: king 1_13
   - first:
-      213: 6490441197078613766
-    second: Hands_14
+      213: -5395263179543277528
+    second: king 1_14
   - first:
-      213: -7573015894517977269
-    second: Hands_15
+      213: -2258644414922062659
+    second: king 1_15
   - first:
-      213: -314947720306782068
-    second: Hands_16
+      213: -3771128471973722815
+    second: king 1_16
   - first:
-      213: 26296084836591099
-    second: Hands_17
+      213: 6126301856239915169
+    second: king 1_17
   - first:
-      213: -9178579888807069751
-    second: Hands_18
+      213: -2460936779856487361
+    second: king 1_18
   - first:
-      213: 1921108735553240517
-    second: Hands_19
+      213: 4624352639145553777
+    second: king 1_19
   - first:
-      213: -4750953261085658584
-    second: Hands_20
+      213: -7323194683940160657
+    second: king 1_20
   - first:
-      213: -5458733777100467512
-    second: Hands_21
+      213: -4309869991547558432
+    second: king 1_21
   - first:
-      213: -8071427073243095318
-    second: Hands_22
+      213: 5837065877651363670
+    second: king 1_22
   - first:
-      213: 5759719348628222881
-    second: Hands_23
+      213: -5235644394879142770
+    second: king 1_23
   - first:
-      213: 2988517110407143233
-    second: Hands_24
+      213: -452946175273142571
+    second: king 1_24
   - first:
-      213: -4221485570552067592
-    second: Hands_25
+      213: 5711835253974758940
+    second: king 1_25
   - first:
-      213: -16798591176348973
-    second: Hands_26
+      213: 1499913153549260675
+    second: king 1_26
   - first:
-      213: 629783809339439106
-    second: Hands_27
+      213: -3781881521932890329
+    second: king 1_27
   - first:
-      213: -1703410017906894379
-    second: Hands_28
+      213: 73916844261212068
+    second: king 1_28
   - first:
-      213: 8971780045525306467
-    second: Hands_29
+      213: -42148953350576189
+    second: king 1_29
   - first:
-      213: -8005602462598688101
-    second: Hands_30
+      213: -3528033545858639687
+    second: king 1_30
   - first:
-      213: -6565099381637744603
-    second: Hands_31
+      213: 8386676571561396828
+    second: king 1_31
   - first:
-      213: -4502599915332463521
-    second: Hands_32
+      213: -510287253258696084
+    second: king 1_32
   - first:
-      213: 7333912409572810732
-    second: Hands_33
+      213: -6466564854626564213
+    second: king 1_33
   - first:
-      213: -8434767100866408013
-    second: Hands_34
+      213: -7202293057282068606
+    second: king 1_34
   - first:
-      213: -835607287298755217
-    second: Hands_35
+      213: -1839055650807833031
+    second: king 1_35
   - first:
-      213: -1880748239174726596
-    second: Hands_36
+      213: 6343248747351138653
+    second: king 1_36
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -197,7 +197,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hands_0
+      name: king 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -211,14 +211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cff33ca8c9601ee48b6ce21a38bc6595
-      internalID: -1624108181874779714
+      spriteID: ed73588924c97d5418974196043a444f
+      internalID: 4680243464515629012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_1
+      name: king 1_1
       rect:
         serializedVersion: 2
         x: 136
@@ -232,14 +232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fdf69b5bfb2e314884f1921d3dc669f
-      internalID: 4710320323224341537
+      spriteID: aa9ad16d1b652f24ea5004c127398e25
+      internalID: -4519345004690601529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_2
+      name: king 1_2
       rect:
         serializedVersion: 2
         x: 272
@@ -253,14 +253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfbb7edec2812da478cfb4cf145c9cff
-      internalID: -3607849992788312949
+      spriteID: f7cfa50a238556046a646459af41963e
+      internalID: 8213400512614576216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_3
+      name: king 1_3
       rect:
         serializedVersion: 2
         x: 408
@@ -274,14 +274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e262bc4968a8834b81e6d6c551ff894
-      internalID: 4785893250104691602
+      spriteID: f1caa3935f9a93b42b226cf456f9f53f
+      internalID: 1428941404127914383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_4
+      name: king 1_4
       rect:
         serializedVersion: 2
         x: 544
@@ -295,14 +295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 275af531d89366c44859b283b0320143
-      internalID: 8548358002291925304
+      spriteID: 432c9cb90c2cb684e9cc28a1c3e9c801
+      internalID: -5030233323472477060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_5
+      name: king 1_5
       rect:
         serializedVersion: 2
         x: 680
@@ -316,14 +316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f255dfcbb7a1454aaf4dd01beb3e75a
-      internalID: 4115896618408713961
+      spriteID: a921b6f1286a7f34b8e713853c8e7b8e
+      internalID: -2034984854398452949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_6
+      name: king 1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -337,14 +337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbb3d759187280d479cf2cd96482f5ee
-      internalID: -8794073143430624990
+      spriteID: 0273657940074eb48a0b3d47d047cf47
+      internalID: -5208127639489565372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_7
+      name: king 1_7
       rect:
         serializedVersion: 2
         x: 136
@@ -358,14 +358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7f7574cca3708347a3ac4c02c10a1c3
-      internalID: -540470037707228130
+      spriteID: 7801d1a28d39de744b2db3400a3d7b68
+      internalID: -3940893376956307571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_8
+      name: king 1_8
       rect:
         serializedVersion: 2
         x: 272
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ac98a3086f5a8445aa710c2fa0138cc
-      internalID: 337372214685337209
+      spriteID: ccc6803fabcbbc44eb284536b6bd85e0
+      internalID: 5604006418605833793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_9
+      name: king 1_9
       rect:
         serializedVersion: 2
         x: 408
@@ -400,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ce57784d6dcba14aa63b281279f694b
-      internalID: -6027080290790340996
+      spriteID: e1d307a4c42837c4ca185b2738823627
+      internalID: 3629648457101865543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_10
+      name: king 1_10
       rect:
         serializedVersion: 2
         x: 544
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 383575d22ae594d44a0058df7bcc068f
-      internalID: 6313145923079975146
+      spriteID: f777126ad89c47a4293de11029469ee1
+      internalID: 2543506394992104552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_11
+      name: king 1_11
       rect:
         serializedVersion: 2
         x: 680
@@ -442,14 +442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd1849721ea5b564d8cedf6886486ccf
-      internalID: -2244605342048754875
+      spriteID: 6141e2f2e3729cc45a5c0cb41bdad035
+      internalID: -7894896795220379943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_12
+      name: king 1_12
       rect:
         serializedVersion: 2
         x: 0
@@ -463,14 +463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1bd8969a00c0294c8ce538b8d86690c
-      internalID: 859294344300821939
+      spriteID: 01a19edc695165c4ab068b8e6fbf0b80
+      internalID: -8840414887699379687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_13
+      name: king 1_13
       rect:
         serializedVersion: 2
         x: 136
@@ -484,14 +484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758a57fbb922da8488ae4ab66a75e4cf
-      internalID: -6203160313062490431
+      spriteID: 7438da9b5cb74cf4687a6c1210506790
+      internalID: 7396184079930085331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_14
+      name: king 1_14
       rect:
         serializedVersion: 2
         x: 272
@@ -505,14 +505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 601636667fdd5914b952610b2dd8c620
-      internalID: 6490441197078613766
+      spriteID: 2b62111012794a44bbc403b15b6852ce
+      internalID: -5395263179543277528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_15
+      name: king 1_15
       rect:
         serializedVersion: 2
         x: 408
@@ -526,14 +526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62fa0263412b41947af22bf14dc83258
-      internalID: -7573015894517977269
+      spriteID: 611dc24db5439194ab59041bfc52d6a2
+      internalID: -2258644414922062659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_16
+      name: king 1_16
       rect:
         serializedVersion: 2
         x: 544
@@ -547,14 +547,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f7b2bc71c6d0dd458e36c1ab016c9eb
-      internalID: -314947720306782068
+      spriteID: ac59a9d89de620f43ac4a039bb37992c
+      internalID: -3771128471973722815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_17
+      name: king 1_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 288
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca52acccf602704d9b124d7e151da32
+      internalID: 6126301856239915169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king 1_18
       rect:
         serializedVersion: 2
         x: 0
@@ -568,14 +589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acad8960b9757484c8db10b0cb499fff
-      internalID: 26296084836591099
+      spriteID: d736c38bb4f844b44a7ebb1a0bcacb94
+      internalID: -2460936779856487361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_18
+      name: king 1_19
       rect:
         serializedVersion: 2
         x: 136
@@ -589,14 +610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d8f74ece2a3c0b4fa2f802627a4065b
-      internalID: -9178579888807069751
+      spriteID: ee45068746ea06b42aa4eabd57aafe55
+      internalID: 4624352639145553777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_19
+      name: king 1_20
       rect:
         serializedVersion: 2
         x: 272
@@ -610,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f709fd2e69afac4eaddc434abc5ea68
-      internalID: 1921108735553240517
+      spriteID: 468495b2cef8f4644be2bf9029855446
+      internalID: -7323194683940160657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_20
+      name: king 1_21
       rect:
         serializedVersion: 2
         x: 408
@@ -631,14 +652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c38f808b7e5cc146bded467fc549cc0
-      internalID: -4750953261085658584
+      spriteID: 1343cb08787fa0246bec73d90b2d4639
+      internalID: -4309869991547558432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_21
+      name: king 1_22
       rect:
         serializedVersion: 2
         x: 544
@@ -652,14 +673,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e081f900451f06f4cbffc305278f47bd
-      internalID: -5458733777100467512
+      spriteID: 2ecb753ef7cdab74b8c76648adb4ee03
+      internalID: 5837065877651363670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_22
+      name: king 1_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 216
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5e45194700df4ea2c1a06581e3cf4
+      internalID: -5235644394879142770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king 1_24
       rect:
         serializedVersion: 2
         x: 0
@@ -673,14 +715,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19b9ce2fe0df6a64fb4a20df018e0490
-      internalID: -8071427073243095318
+      spriteID: fdae7e47519c8ff4b919c8c2bdb1d05b
+      internalID: -452946175273142571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_23
+      name: king 1_25
       rect:
         serializedVersion: 2
         x: 136
@@ -694,14 +736,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb828857e45001445967b523af3255a8
-      internalID: 5759719348628222881
+      spriteID: ed0baad346d41c849a299f416c540d13
+      internalID: 5711835253974758940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_24
+      name: king 1_26
       rect:
         serializedVersion: 2
         x: 272
@@ -715,14 +757,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d64c0619e6dc1149bd5243d5b602875
-      internalID: 2988517110407143233
+      spriteID: 2b5347a84356e264292afe5ce0cde2e6
+      internalID: 1499913153549260675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_25
+      name: king 1_27
       rect:
         serializedVersion: 2
         x: 408
@@ -736,14 +778,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e44c4d932929804eab9da80ef1dc6b1
-      internalID: -4221485570552067592
+      spriteID: 0af5904dff6d28d499ce6aba5f6b6841
+      internalID: -3781881521932890329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_26
+      name: king 1_28
       rect:
         serializedVersion: 2
         x: 544
@@ -757,14 +799,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ba478787fac2c04991f8021d78a8184
-      internalID: -16798591176348973
+      spriteID: dd976168470c73045b5409f65ce0f328
+      internalID: 73916844261212068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_27
+      name: king 1_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 144
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22769a58aaa9734fa6a0e58522c6869
+      internalID: -42148953350576189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king 1_30
       rect:
         serializedVersion: 2
         x: 0
@@ -778,14 +841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 064641e090c73094a99479caa1b8d2f6
-      internalID: 629783809339439106
+      spriteID: bf2a904f2ec38c24dabc7b1fcb928046
+      internalID: -3528033545858639687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_28
+      name: king 1_31
       rect:
         serializedVersion: 2
         x: 136
@@ -799,14 +862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bdb7fc91a72ee248b60ed5e9be14253
-      internalID: -1703410017906894379
+      spriteID: 9c07e9b1c72f20d4c8f8ed9db38ae966
+      internalID: 8386676571561396828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_29
+      name: king 1_32
       rect:
         serializedVersion: 2
         x: 272
@@ -820,14 +883,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8d8d8dab9d1bdc4dbe075c64652168e
-      internalID: 8971780045525306467
+      spriteID: 37deec6306c72f4499d65bcc7225bf09
+      internalID: -510287253258696084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_30
+      name: king 1_33
       rect:
         serializedVersion: 2
         x: 408
@@ -841,14 +904,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31f107dc5a03faf48b415a35bd4d93c9
-      internalID: -8005602462598688101
+      spriteID: 5e42b3d0227547649b42679fe1a1e830
+      internalID: -6466564854626564213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_31
+      name: king 1_34
       rect:
         serializedVersion: 2
         x: 544
@@ -862,14 +925,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 223aea670cf53bf4b830fe4a5352dcbf
-      internalID: -6565099381637744603
+      spriteID: 54f968c667fc32c4eb3cfb772fa40bf9
+      internalID: -7202293057282068606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hands_32
+      name: king 1_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 72
+        width: 136
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a065f75ad1dd3864599f8c142eff8a0c
+      internalID: -1839055650807833031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king 1_36
       rect:
         serializedVersion: 2
         x: 0
@@ -883,92 +967,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f91c76d7631fba645b9140342d5f127f
-      internalID: -4502599915332463521
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_33
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 0
-        width: 136
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a66516d52584a34aa7d580bca07c638
-      internalID: 7333912409572810732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_34
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 0
-        width: 136
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9373e7f1f6044714db7dc9a01a019999
-      internalID: -8434767100866408013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_35
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 0
-        width: 136
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be77c52ffdc73a640a9c0879293811ce
-      internalID: -835607287298755217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hands_36
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 0
-        width: 136
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a7aa49075c59e84b9c78e9ea259bf82
-      internalID: -1880748239174726596
+      spriteID: 138220fa6549cc04985968e4e44b1df5
+      internalID: 6343248747351138653
       vertices: []
       indices: 
       edges: []

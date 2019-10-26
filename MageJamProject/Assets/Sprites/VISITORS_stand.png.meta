@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: ea53c81b3157012498707af9e7ea33a4
+guid: f7bbaea79c72b284ba752e1745abb3a2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2978653956524333172
-    second: icons_0
+      213: -548724516630769352
+    second: VISITORS_stand_0
   - first:
-      213: -299690340437171572
-    second: icons_1
+      213: -8759954271848506823
+    second: VISITORS_stand_1
+  - first:
+      213: 2153955562418796458
+    second: VISITORS_stand_2
+  - first:
+      213: -8834461336466607609
+    second: VISITORS_stand_3
+  - first:
+      213: -2057977519758656653
+    second: VISITORS_stand_4
+  - first:
+      213: 3195294810786689439
+    second: VISITORS_stand_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 6
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -92,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: icons_0
+      name: VISITORS_stand_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 24
-        height: 32
+        x: 1
+        y: 0
+        width: 7
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -106,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a00e8d65834ccde48bb86bfd376425d4
-      internalID: -2978653956524333172
+      spriteID: 23cfc9f82a950d040bd3b8dab35a32a7
+      internalID: -548724516630769352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icons_1
+      name: VISITORS_stand_1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 0
-        width: 32
-        height: 32
+        width: 7
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +139,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bad0bccd3aae184db18f1e9bbb824ff
-      internalID: -299690340437171572
+      spriteID: 6db887a7c2ca37a4d9b930e062a05950
+      internalID: -8759954271848506823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISITORS_stand_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b6534a5431774aab8c5a6523abd3f
+      internalID: 2153955562418796458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISITORS_stand_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d941038c3d3344294f878de4644ada
+      internalID: -8834461336466607609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISITORS_stand_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71397dda50dae8e4fab1c1bd00d8b641
+      internalID: -2057977519758656653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISITORS_stand_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586955a18e0cd9d419d2afa11254e7b6
+      internalID: 3195294810786689439
       vertices: []
       indices: 
       edges: []
