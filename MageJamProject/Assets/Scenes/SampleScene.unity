@@ -432,7 +432,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &157294171
 RectTransform:
   m_ObjectHideFlags: 0
@@ -863,7 +863,7 @@ RectTransform:
   m_Children:
   - {fileID: 1594700332}
   m_Father: {fileID: 1532599242}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -912,7 +912,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 667764093}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2097177212}
+        m_MethodName: executionChoise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &667764093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -961,7 +972,6 @@ GameObject:
   - component: {fileID: 716414520}
   - component: {fileID: 716414519}
   - component: {fileID: 716414518}
-  - component: {fileID: 716414521}
   m_Layer: 5
   m_Name: Kick away
   m_TagString: Untagged
@@ -982,7 +992,7 @@ RectTransform:
   m_Children:
   - {fileID: 81973473}
   m_Father: {fileID: 1532599242}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1031,7 +1041,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 716414519}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2097177212}
+        m_MethodName: kickChoise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &716414519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1068,25 +1089,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 716414516}
   m_CullTransparentMesh: 0
---- !u!95 &716414521
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 716414516}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1d2d550c3b077a749974b2273c0d7aab, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &782415075
 GameObject:
   m_ObjectHideFlags: 0
@@ -1410,6 +1412,7 @@ GameObject:
   - component: {fileID: 1532599242}
   - component: {fileID: 1532599244}
   - component: {fileID: 1532599243}
+  - component: {fileID: 1532599245}
   m_Layer: 5
   m_Name: ChoiseBox
   m_TagString: Untagged
@@ -1428,15 +1431,15 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1572688495}
   - {fileID: 716414517}
   - {fileID: 667764091}
+  - {fileID: 1572688495}
   m_Father: {fileID: 1680237571}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -41.103, y: -119.2}
+  m_AnchoredPosition: {x: -41.10001, y: -119.199974}
   m_SizeDelta: {x: 431.8, y: 106.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1532599243
@@ -1475,6 +1478,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532599241}
   m_CullTransparentMesh: 0
+--- !u!95 &1532599245
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532599241}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 85a5cb58b91cc0c47b911a9a8dfedb72, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1572688494
 GameObject:
   m_ObjectHideFlags: 0
@@ -1487,7 +1509,6 @@ GameObject:
   - component: {fileID: 1572688498}
   - component: {fileID: 1572688497}
   - component: {fileID: 1572688496}
-  - component: {fileID: 1572688499}
   m_Layer: 5
   m_Name: Listen
   m_TagString: Untagged
@@ -1508,7 +1529,7 @@ RectTransform:
   m_Children:
   - {fileID: 1266190972}
   m_Father: {fileID: 1532599242}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1557,7 +1578,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1572688497}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2097177212}
+        m_MethodName: listenChoise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1572688497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1594,25 +1626,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1572688494}
   m_CullTransparentMesh: 0
---- !u!95 &1572688499
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572688494}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1d2d550c3b077a749974b2273c0d7aab, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1594700331
 GameObject:
   m_ObjectHideFlags: 0
@@ -2014,6 +2027,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2097177211}
   - component: {fileID: 2097177212}
+  - component: {fileID: 2097177210}
   m_Layer: 0
   m_Name: DialogueManager
   m_TagString: Untagged
@@ -2021,6 +2035,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &2097177210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097177209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55db37ead943b534a88eb1f44a8fd179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  madness: 0
+  maxMadness: 0
 --- !u!4 &2097177211
 Transform:
   m_ObjectHideFlags: 0
@@ -2048,6 +2076,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 157294174}
-  choiseAnimator: {fileID: 0}
+  choiseAnimator: {fileID: 1532599245}
   nameText: {fileID: 1160759101}
   speech: {fileID: 15351556}

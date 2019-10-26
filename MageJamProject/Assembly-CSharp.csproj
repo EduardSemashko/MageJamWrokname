@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\DialogApearenence.cs" />
     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\MadnessAmount.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Smth else/GitReposGumes/MageJamWrokname/MageJamProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

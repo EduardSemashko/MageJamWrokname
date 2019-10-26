@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class CitizenCreation : MonoBehaviour
 {
     //public Citizen citizen;
+    private MadnessAmount madness;
     public Animator animator;
     public Animator choiseAnimator;
     public Text nameText;
@@ -20,7 +21,7 @@ public class CitizenCreation : MonoBehaviour
     
     void Start()
     {
-        
+        madness = GetComponent<MadnessAmount>();
     }
 
     public void StartDialogue (/*Dialogue dialogue*/)
@@ -62,13 +63,31 @@ public class CitizenCreation : MonoBehaviour
         citizenAsked = true;
     }
 
-    void EndDialogue()
+    public void EndDialogue()
     {
         animator.SetBool("IsOpen", false);
+        choiseAnimator.SetBool("IsOpen", true);
     }
 
-    public void answerChoise()
+    public void listenChoise()
     {
-        choiseAnimator.SetBool("IsOpen", true);
+        Debug.Log("I'll listen you, say.");
+        madness.madness++;
+        madness.army -= 2;
+        madness.croudLoyalty += 5;
+    }
+    public void kickChoise()
+    {
+        Debug.Log("Get out of my fortress!");
+        madness.madness--;
+        madness.croudLoyalty -= 2;
+
+    }
+    public void executionChoise()
+    {
+        Debug.Log("DIE INCERT!");
+        madness.madness += 4;
+        madness.croudLoyalty -= 4;
+        madness.army += 2;
     }
 }
